@@ -1,0 +1,5 @@
+package Herança
+
+fun main(){
+
+}
