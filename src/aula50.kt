@@ -1,4 +1,4 @@
-class quadrado(val area:Float)
+/*class quadrado(val area:Float)
 
 data class Triangulo(val area :Float)//transitadados e == compara valores e nao endereço de memoria
 fun teste(x:Triangulo)//passa a classe inteira como parametro
@@ -28,3 +28,5 @@ fun main(){
     }
 */
 }
+
+ */

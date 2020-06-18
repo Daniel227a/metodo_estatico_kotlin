@@ -1,0 +1,21 @@
+ /*interface Maquina{ //nao pode ter metodos nem valor a variaveis
+    o
+    fun ligar()
+    fun desliga()
+
+}
+class controle():Maquina{
+    override fun ligar() {
+        println(" ligado ")
+    }
+
+    override fun desliga() {
+        TODO("Not yet implemented")
+    }
+
+}
+fun main(){
+
+  //  println(controle().ligar())
+
+}*/
